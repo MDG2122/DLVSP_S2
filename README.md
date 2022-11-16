@@ -1,6 +1,7 @@
 This is an adaptation of the https://github.com/melodiepupu/seq_nms_yolo project, based on https://github.com/carlosjimenezmwb/seq_nms_yolo GitHub.
 
 Follow the instructions on: description.txt, to run the code.
+
 Adaptation made by: Massimo Di Gennaro
 
 
