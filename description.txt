@@ -1,0 +1,14 @@
+Instructions to run the code:
+
+Follow instructions on: https://github.com/carlosjimenezmwb/seq_nms_yolo, with the following exceptions:
+
+On step 2, run:
+
+source activate EnvExample, instead of: conda activate EnvExample.
+
+Skip step 7 since the video is already in the folder. If you want to select a different video, then change the name of the video. This code provides 3 sample .avi files: input.avi, input2.avi, input3.avi.
+
+On step 8, run (If the video is an .avi file):
+
+python video2img.py -i input.avi, instead of: python video2img.py -i input.mp4. If the video is a .mp4 file, then skip this change. If video is input2.avi, then run: python video2img.py -i input2.avi, if video is input3.avi, then run: python video2img.py -i input3.avi.
+
