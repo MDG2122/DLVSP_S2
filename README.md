@@ -1,3 +1,8 @@
+This is an adaptation of the https://github.com/melodiepupu/seq_nms_yolo project, based on https://github.com/carlosjimenezmwb/seq_nms_yolo GitHub.
+
+Adaptation made by: Massimo Di Gennaro
+
+
 # Seq_nms_YOLO
 
 #### Membres: Yunyun SUN, Yutong YAN, Sixiang XU, Heng ZHANG
