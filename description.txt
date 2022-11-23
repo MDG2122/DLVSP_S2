@@ -18,9 +18,9 @@ Yolo without seq_nms:
 
 To remove seq_nms from the tracking algorithm, the following lines of code are removed/commented in yolo_seqnms.py (suggested by https://github.com/hectordavideps/seq_nms_yolo):
 
-maxPath(dets,links) line 205
+-maxPath(dets,links) line 205
 
-NMS(dets) line 206
+-NMS(dets) line 206
 
-
+Then, repeat steps 8 to 11, to get results without seq_nms.
 
