@@ -16,7 +16,7 @@ python video2img.py -i input1.avi, instead of: python video2img.py -i input.mp4.
 
 Yolo without seq_nms:
 
-To remove seq_nms from the tracking algorithm, the following lines of code are removed/commented in yolo_seqnms.py (suggested by  https://github.com/hectordavideps/seq_nms_yolo):
+To remove seq_nms from the tracking algorithm, the following lines of code are removed/commented in yolo_seqnms.py (suggested by https://github.com/hectordavideps/seq_nms_yolo):
 
 maxPath(dets,links) line 205
 
