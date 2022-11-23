@@ -22,5 +22,5 @@ To remove seq_nms from the tracking algorithm, the following lines of code are r
 
 -NMS(dets) line 206
 
-Then, repeat steps 8 to 11, to get results without seq_nms.
+Then, repeat steps 8 to 11 of instructions on first Github, to get results without seq_nms.
 
