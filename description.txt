@@ -14,4 +14,13 @@ On step 8, run (If the video is an .avi file):
 
 python video2img.py -i input1.avi, instead of: python video2img.py -i input.mp4. If the video is a .mp4 file, then skip this change (name of file needs to be input.mp4, in this case). If the video is input2.avi, then run: python video2img.py -i input2.avi, if the video is input3.avi, then run: python video2img.py -i input3.avi, if the video is input4.avi, then run: python video2img.py -i input4.avi, and finally, if the video is input5.avi, then run: python video2img.py -i input5.avi.
 
+Yolo without seq_nms:
+
+To remove seq_nms from the tracking algorithm, the following lines of code are removed/commented in yolo_seqnms.py (suggested by  https://github.com/hectordavideps/seq_nms_yolo):
+
+maxPath(dets,links) line 205
+
+NMS(dets) line 206
+
+
 
