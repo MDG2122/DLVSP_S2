@@ -2,7 +2,7 @@ This is an adaptation of the https://github.com/melodiepupu/seq_nms_yolo project
 
 Follow the instructions on: description.txt, to run the code.
 
-Adaptation made by: Massimo Di Gennaro
+Adaptation made by: Massimo Di Gennaro, Cecilia Diana Albelda, Leticia Fernandez Abella.
 
 
 # Seq_nms_YOLO
